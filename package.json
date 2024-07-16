@@ -1,0 +1,15 @@
+{
+  "name": "full-ts-and-classes",
+  "version": "1.0.0",
+  "description": "farei um projeto full ts e em classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.4"
+  }
+}
